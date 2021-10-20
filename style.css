@@ -1,0 +1,27 @@
+h1{color:#ff0000}
+.header{
+    background-color: cadetblue;
+    display:flex;
+    justify-content:space-between;
+}
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    background-color:#00ff00;
+    display:flex;
+    flex-wrap: wrap;
+
+}
+h2{color:ffd700}
+.title{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-evenly;
+    font-family: sans-serif;
+}
+body{
+    background-color:#4b0082;
+}
